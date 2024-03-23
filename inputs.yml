@@ -1,0 +1,9 @@
+inputs:
+  empty_string: ""
+  single_number: "1"
+  comma_separated_numbers: "1,5"
+  newline_and_comma_separated_numbers: "1\n2,3"
+  custom_delimiter_semicolon: "//;\n1;2"
+  negative_numbers: "-1,2,-3"
+  custom_delimiter_pipe: "//|\n1|2|3"
+  custom_delimiter_percentage: "//%\n1%2%3"
